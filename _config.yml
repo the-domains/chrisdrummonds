@@ -1,0 +1,28 @@
+name: ChrisDrummonds
+favicon: null
+layout_spectrum: 0.5160711253993213
+typography_spectrum: 0.21678506745956838
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.39437592099420726
+  lightness: 0.2629234725609422
+  saturation: 0.24494546535424888
+  rhythmicContrast: 0.7537850455846637
+purpose: []
